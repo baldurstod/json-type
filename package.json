@@ -1,0 +1,6 @@
+{
+  "name": "json-type",
+  "version": "1.0.0",
+  "description": "Typescript types for JSONValue, JSONObject, JSONArray",
+  "main": "index.ts"
+}
